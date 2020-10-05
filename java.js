@@ -9,7 +9,7 @@
       dots.style.display = "inline";
       btnText.innerHTML = "Load More";
       moreText.style.display = "none";
-      setTimeout(abc,500);
+      setTimeout(abc,1000);
       moreText2.style.display = "inline";
       
     } else {
